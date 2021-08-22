@@ -11,4 +11,4 @@ spring:
   default-encoding: UTF-8
 filter:
  validatetime: 1
- frequencylimit: 100
+ frequencylimit: 1
