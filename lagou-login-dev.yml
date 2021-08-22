@@ -9,3 +9,6 @@ spring:
   username: xiaowangnanfeng@163.com
   password: DEKQMGZVWXMPMMQB  # 用授权码代替密码登录。
   default-encoding: UTF-8
+ filter:
+  validatetime: 1
+  frequencylimit: 100
