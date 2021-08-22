@@ -1,11 +1,11 @@
 spring:
-  datasource:
-      driver-class-name: com.mysql.jdbc.Driver
-      url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
-      username: root
-      password: 123456
-  mail:
-    host: smtp.163.com
-    username: xiaowangnanfeng@163.com
-    password: DEKQMGZVWXMPMMQB  # 用授权码代替密码登录。
-    default-encoding: UTF-8
+ datasource:
+  driver-class-name: com.mysql.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/lagou?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
+  username: root
+  password: 123456
+ mail:
+  host: smtp.163.com
+  username: xiaowangnanfeng@163.com
+  password: DEKQMGZVWXMPMMQB  # 用授权码代替密码登录。
+  default-encoding: UTF-8
